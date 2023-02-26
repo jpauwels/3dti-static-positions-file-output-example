@@ -1,0 +1,1 @@
+# 3dti-static-positions-file-output-example
